@@ -1,0 +1,122 @@
+{
+  "ClinicInfo": {
+    "description": "Auto imported from components/adv/ClinicInfo.vue"
+  },
+  "LazyClinicInfo": {
+    "description": "Auto imported from components/adv/ClinicInfo.vue"
+  },
+  "DeptInfo": {
+    "description": "Auto imported from components/adv/DeptInfo.vue"
+  },
+  "LazyDeptInfo": {
+    "description": "Auto imported from components/adv/DeptInfo.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/base/Card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/base/Card.vue"
+  },
+  "Item": {
+    "description": "Auto imported from components/base/Item.vue"
+  },
+  "LazyItem": {
+    "description": "Auto imported from components/base/Item.vue"
+  },
+  "ItemGroup": {
+    "description": "Auto imported from components/base/ItemGroup.vue"
+  },
+  "LazyItemGroup": {
+    "description": "Auto imported from components/base/ItemGroup.vue"
+  },
+  "ItemSubGroup": {
+    "description": "Auto imported from components/base/ItemSubGroup.vue"
+  },
+  "LazyItemSubGroup": {
+    "description": "Auto imported from components/base/ItemSubGroup.vue"
+  },
+  "MaterialAlert": {
+    "description": "Auto imported from components/base/MaterialAlert.vue"
+  },
+  "LazyMaterialAlert": {
+    "description": "Auto imported from components/base/MaterialAlert.vue"
+  },
+  "MaterialCard": {
+    "description": "Auto imported from components/base/MaterialCard.vue"
+  },
+  "LazyMaterialCard": {
+    "description": "Auto imported from components/base/MaterialCard.vue"
+  },
+  "MaterialChartCard": {
+    "description": "Auto imported from components/base/MaterialChartCard.vue"
+  },
+  "LazyMaterialChartCard": {
+    "description": "Auto imported from components/base/MaterialChartCard.vue"
+  },
+  "MaterialSnackbar": {
+    "description": "Auto imported from components/base/MaterialSnackbar.vue"
+  },
+  "LazyMaterialSnackbar": {
+    "description": "Auto imported from components/base/MaterialSnackbar.vue"
+  },
+  "MaterialStatsCard": {
+    "description": "Auto imported from components/base/MaterialStatsCard.vue"
+  },
+  "LazyMaterialStatsCard": {
+    "description": "Auto imported from components/base/MaterialStatsCard.vue"
+  },
+  "MaterialTabs": {
+    "description": "Auto imported from components/base/MaterialTabs.vue"
+  },
+  "LazyMaterialTabs": {
+    "description": "Auto imported from components/base/MaterialTabs.vue"
+  },
+  "MaterialTestimony": {
+    "description": "Auto imported from components/base/MaterialTestimony.vue"
+  },
+  "LazyMaterialTestimony": {
+    "description": "Auto imported from components/base/MaterialTestimony.vue"
+  },
+  "Subheading": {
+    "description": "Auto imported from components/base/Subheading.vue"
+  },
+  "LazySubheading": {
+    "description": "Auto imported from components/base/Subheading.vue"
+  },
+  "VComponent": {
+    "description": "Auto imported from components/base/VComponent.vue"
+  },
+  "LazyVComponent": {
+    "description": "Auto imported from components/base/VComponent.vue"
+  },
+  "AppBar": {
+    "description": "Auto imported from components/core/AppBar.vue"
+  },
+  "LazyAppBar": {
+    "description": "Auto imported from components/core/AppBar.vue"
+  },
+  "Drawer": {
+    "description": "Auto imported from components/core/Drawer.vue"
+  },
+  "LazyDrawer": {
+    "description": "Auto imported from components/core/Drawer.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/core/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/core/Footer.vue"
+  },
+  "Settings": {
+    "description": "Auto imported from components/core/Settings.vue"
+  },
+  "LazySettings": {
+    "description": "Auto imported from components/core/Settings.vue"
+  },
+  "View": {
+    "description": "Auto imported from components/core/View.vue"
+  },
+  "LazyView": {
+    "description": "Auto imported from components/core/View.vue"
+  }
+}

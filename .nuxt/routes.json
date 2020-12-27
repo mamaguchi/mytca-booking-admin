@@ -1,0 +1,37 @@
+[
+  {
+    "name": "clinicadmin___en",
+    "path": "/clinicadmin",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-admin/pages/clinicadmin/index.vue",
+    "chunkName": "pages/clinicadmin/index",
+    "_name": "_a93ee018"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-admin/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_16df32f6"
+  },
+  {
+    "name": "signup___en",
+    "path": "/signup",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-admin/pages/signup/index.vue",
+    "chunkName": "pages/signup/index",
+    "_name": "_00cd84c1"
+  },
+  {
+    "name": "clinicadmin-service___en",
+    "path": "/clinicadmin/service",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-admin/pages/clinicadmin/service/index.vue",
+    "chunkName": "pages/clinicadmin/service/index",
+    "_name": "_3879d31a"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-admin/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_76361b9c"
+  }
+]
